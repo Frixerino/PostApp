@@ -49,4 +49,4 @@ Questo progetto è distribuito sotto la licenza MIT. Vedi il file [LICENSE](LICE
 
 ## Contatti
 
-Per ulteriori informazioni, contatta [tuo-email@example.com](mailto:tuo-email@example.com). 
+Per ulteriori informazioni, contatta [apaglinowork@gmail.com](mailto:tuo-email@example.com). 
