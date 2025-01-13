@@ -6,7 +6,7 @@ PostApp è un'applicazione web progettata per gestire vari aspetti delle operazi
 
 Il progetto è composto dalle seguenti pagine HTML:
 
-- **index.html.html**: Pagina di login per accedere all'applicazione.
+- **index.html**: Pagina di login per accedere all'applicazione.
 - **dashboard.html**: Dashboard principale che fornisce accesso a diverse funzionalità.
 - **clienti.html**: Gestione dei clienti.
 - **ordini.html**: Visualizzazione e gestione degli ordini.
