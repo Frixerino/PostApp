@@ -14,10 +14,7 @@ Il progetto è composto dalle seguenti pagine HTML:
 - **recupera-password.html**: Pagina per il recupero della password.
 - **massive.html**: Gestione delle operazioni massive.
 - **supporto.html**: Contatto per il supporto tecnico.
-- 
-## Licenza
 
-Questo progetto è distribuito sotto la licenza MIT. Vedi il file [LICENSE](LICENSE) per ulteriori dettagli.
 
 ## Contatti
 
